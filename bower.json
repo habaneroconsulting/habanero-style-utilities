@@ -4,7 +4,7 @@
   "authors": [
     "Christopher Parsons <cparsons@habaneroconsulting.com>"
   ],
-  "description": "A starter kit of CSS utility mixins and variables.",
-  "main": "source/_references.less",
+  "description": "A starting kit of LESS utility mixins and variables.",
+  "main": "reference/_reference.less",
   "license": "MIT"
 }
