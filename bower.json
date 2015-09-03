@@ -1,0 +1,10 @@
+{
+  "name": "habanero-style-utilities",
+  "homepage": "https://github.com/habaneroconsulting/habanero-style-utilities",
+  "authors": [
+    "Christopher Parsons <cparsons@habaneroconsulting.com>"
+  ],
+  "description": "A starter kit of CSS utility mixins and variables.",
+  "main": "source/_references.less",
+  "license": "MIT"
+}
