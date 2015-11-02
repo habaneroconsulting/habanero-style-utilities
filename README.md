@@ -1,3 +1,3 @@
 # Habanero Style Utilities
 
-A starting kit of LESS utility mixins and variables.
+A starting kit of SCSS utility mixins and variables.
