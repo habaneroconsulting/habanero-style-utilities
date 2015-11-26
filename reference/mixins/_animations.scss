@@ -10,7 +10,7 @@
 	}
 }
 
-@mixin fadein ($speed: 0.5s) {
+@mixin fadein ($speed: .5s) {
 	animation-duration: $speed;
 	animation-name: fadein;
 }

@@ -1,0 +1,25 @@
+{
+  "name": "habanero-style-utilities",
+  "version": "0.3.0",
+  "author": "Habanero Consulting Group",
+  "contributors": [
+    {
+      "name": "Christopher Parsons",
+      "email": "cparsons@habaneroconsulting.com",
+      "url": "http://habaneroconsulting.com"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/habaneroconsulting/habanero-style-utilities"
+  },
+  "scripts": {
+    "test": "grunt scsslint"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-scss-lint": "^0.3.8",
+    "habanero-code-style": "^0.4.0"
+  }
+}
