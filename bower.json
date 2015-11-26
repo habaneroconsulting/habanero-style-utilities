@@ -5,7 +5,7 @@
     "Christopher Parsons <cparsons@habaneroconsulting.com>"
   ],
   "description": "A starting kit of SCSS utility mixins and variables.",
-  "main": "reference/_reference.less",
+  "main": "reference/_reference.scss",
   "license": "MIT",
   "ignore": [
   	"bower.json",
