@@ -1,13 +1,12 @@
 'use strict';
 
 module.exports = function (grunt) {
-	grunt.loadNpmTasks('grunt-scss-lint');
+	grunt.loadNpmTasks('grunt-sass-lint');
 
 	grunt.initConfig({
-		scsslint: {
+		sasslint: {
 			options: {
-				config: './node_modules/habanero-code-style/scss/scsslint.yml',
-				colorizeOutput: true
+				configFile: './node_modules/habanero-code-style/scss/sasslint.yml'
 			},
 			all: {
 				src: [
