@@ -15,7 +15,7 @@
     "url": "https://github.com/habaneroconsulting/habanero-style-utilities"
   },
   "scripts": {
-    "test": "grunt scsslint"
+    "test": "grunt sasslint"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
